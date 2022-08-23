@@ -55,7 +55,7 @@ na chamada do metodo da validação.
 ### 1 - Onde anexar os arquivos de atualização?
 Para utilizar esse metodo de validação, é necessário ter uma plataforma de hospedagem com link direto para download,
 o que não foi nada fácil encontrar, seguindo a idéia que o projeto deveria ser 'Zero custo'.
-Após muitas pesquisas e testes, consegui achar um conteúdo bacana utilizando o Google Driver que também compartilharei com vocês.
+Após muitas pesquisas e testes, consegui achar um conteúdo bacana utilizando o Google Drive que também compartilharei com vocês.
 
 Primeiro é necessário anexar todos arquivos de atualização dentro de uma pasta compactada com extenção [.zip].
 > Obs: Testei com outras extensões como [.rar] mas não funcionou.
@@ -68,8 +68,26 @@ o trecho circulado em `VERDE`
 ### 2 - Gostei da idéia. Mas onde vou usar esse link ?
 Mas uma vez, pensando no 'Zero custo', agora é necessário usar alguma plataforma onde é possível anexar dados e gerar um link exclusivo.
 Com base nisso fui correndo para um site que muitos devem conhecer, o grandioso [Pastebin](https://pastebin.com/). 
-Criei um bloco especifico onde fará todo sentido para as informações que dei acima. 
+Criei um bloco especifico onde fará todo sentido para as informações que passei acima. 
 
 > Print do json no pastebin
+![image](https://user-images.githubusercontent.com/69655703/186064940-1df91be7-51c4-4c51-af34-dc78870eb090.png)
+
+No print acima eu destaquei os principais campos referenciados na validação sendo eles:
+
+- Nome do projeto
+- versão
+- Link para Download
+
+### Para finalizar, o que eu faço com o trecho do link gerado no Google Drive?
+
+A imagem abaixo já diz tudo.
+Basta colar o trecho na parte indicada na imagem que o link se tornará Auto-Run fazendo com que toda a idéia funcione corretamente
+![image](https://user-images.githubusercontent.com/69655703/186065680-ba7a148d-549b-4eb9-811d-1dcdc3851d25.png)
+
+
+
+Então é isso galera. Espero que tenham gostado da idéia. Se tiverem algo a acrescentar para melhorar, estou à disposição. 
+Até mais!
 
 
