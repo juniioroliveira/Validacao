@@ -16,9 +16,9 @@ porém no modelo em que está, tem me atendido até o momento. Nos próximos pas
 Criei um projeto console [UPDATE](https://github.com/juniioroliveira/Update) para que ele seja executado quando houver uma nova
 versão do projeto em questão. Programei ele para executar 3 passos:
 
-• Copiar os arquivos da nova versão da pasta TEMP para a pasta RAIZ do projeto em questão
-• Excluir os arquivos da pasta TEMP 
-• Executar o sistema após concluir os 2 passos acima
+- Copiar os arquivos da nova versão da pasta TEMP para a pasta RAIZ do projeto em questão
+- Excluir os arquivos da pasta TEMP 
+- Executar o sistema após concluir os 2 passos acima
 
 Os arquivos da pasta Bin desse projeto deve ser jogados dentro da pasta do seu projeto em questão.
 
@@ -59,11 +59,10 @@ Após muitas pesquisas e testes, consegui achar um conteúdo bacana utilizando o
 
 Primeiro é necessário anexar todos arquivos de atualização dentro de uma pasta compactada com extenção [.zip].
 > Obs: Testei com outras extensões como [.rar] mas não funcionou.
+
 Após feito isso, basta anexar o arquivo no Google Driver e compartilhar para gerar o link de download. Porém utilizaremos apenas 
 o trecho circulado em `VERDE`
 ![image](https://user-images.githubusercontent.com/69655703/186063282-8446f01d-90d0-41ba-b07f-5dc302ca75e7.png)
-
-# Bom. A parte que todo mundo deve saber já foi passada. Agora vamos para parte que interessa...
 
 ### 2 - Gostei da idéia. Mas onde vou usar esse link ?
 Mas uma vez, pensando no 'Zero custo', agora é necessário usar alguma plataforma onde é possível anexar dados e gerar um link exclusivo.
