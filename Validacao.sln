@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32314.265
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacao", "Validacao.csproj", "{0F0B45C1-0869-4B08-B8CB-62863EF6D513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validacao", "Validacao.csproj", "{0F0B45C1-0869-4B08-B8CB-62863EF6D513}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Update", "..\Update\Update.csproj", "{836C4954-3376-44DC-BCB2-78D17ADB1756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0F0B45C1-0869-4B08-B8CB-62863EF6D513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F0B45C1-0869-4B08-B8CB-62863EF6D513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F0B45C1-0869-4B08-B8CB-62863EF6D513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836C4954-3376-44DC-BCB2-78D17ADB1756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836C4954-3376-44DC-BCB2-78D17ADB1756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836C4954-3376-44DC-BCB2-78D17ADB1756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836C4954-3376-44DC-BCB2-78D17ADB1756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
